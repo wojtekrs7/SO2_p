@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\48661\\source\\repos\\SO2v2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{034E24B3-D16E-4105-879C-DADBC74B228A}|SO2v2\\SO2v2.vcxproj|C:\\Users\\48661\\source\\repos\\SO2v2\\SO2v2\\SO2v2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{034E24B3-D16E-4105-879C-DADBC74B228A}|SO2v2\\SO2v2.vcxproj|solutionrelative:SO2v2\\SO2v2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SO2v2.cpp",
+              "DocumentMoniker": "C:\\Users\\48661\\source\\repos\\SO2v2\\SO2v2\\SO2v2.cpp",
+              "RelativeDocumentMoniker": "SO2v2\\SO2v2.cpp",
+              "ToolTip": "C:\\Users\\48661\\source\\repos\\SO2v2\\SO2v2\\SO2v2.cpp",
+              "RelativeToolTip": "SO2v2\\SO2v2.cpp",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAIwGMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T22:58:32.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  SO2v2.cpp
+C:\Users\48661\source\repos\SO2v2\SO2v2\SO2v2.cpp(104,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  SO2v2.vcxproj -> C:\Users\48661\source\repos\SO2v2\x64\Debug\SO2v2.exe
